@@ -22,5 +22,7 @@ grep -rP "NE-COARSE-LIT-micro-fuzzy-TIME-ALL-LED-ALL\tALL" ranking-de-coarse-mic
 
 The plots shown in the paper may be found in `evaluation-results/robustness`.
 
+While the CRF baseline for NERC is trained during the evaluation workflow, the Aida baseline for EL is simply added to `systems/submitted/`.
+
 
 
