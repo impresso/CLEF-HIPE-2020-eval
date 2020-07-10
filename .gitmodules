@@ -1,4 +1,4 @@
 [submodule "CLEF-HIPE-2020-scorer"]
 	path = CLEF-HIPE-2020-scorer
 	url = https://github.com/impresso/CLEF-HIPE-2020-scorer
-	branch = issue-100/evaluation-toolkit
+	branch = master
