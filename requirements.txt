@@ -1,0 +1,8 @@
+sklearn_crfsuite
+pandas
+tqdm
+tabulate
+seaborn
+stringdist
+docopt
+dkpro-cassis
