@@ -163,3 +163,8 @@ eval-clean:
 	rm -f $(RES_DIR)/*tsv
 	rm -f $(EVAL_LOGS_DIR)/*
 	rm -f $(gold-histonorm-files)
+
+rankings-summary: generate-rankings-summary
+
+generate-rankings-summary:
+	python lib/format_rankings_summary.py --input-dir=$(RANK_DIR) --output-dir=$(RANK_DIR)
