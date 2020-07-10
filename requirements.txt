@@ -5,4 +5,4 @@ tabulate
 seaborn
 stringdist
 docopt
-dkpro-cassis
+numpy
